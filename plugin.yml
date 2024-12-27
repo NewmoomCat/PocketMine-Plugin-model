@@ -1,0 +1,12 @@
+name: Menucat
+main: src\Main
+author: NewmoomCat
+version: 1.0.0 #demo 1
+description: 仿ZX_UI制作的自定义菜单，作者：NewmoomCat
+api: [5.0.0]
+load: STARTUP
+command:
+/Menu
+description: 打开菜单
+/OPMenu
+description: 管理员菜单
